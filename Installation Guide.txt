@@ -1,0 +1,13 @@
+INSTALLATION INSTRUCTIONS;
+************************************************************************************************
+1. Install a webserver( WAMPP OR XAMPP OR MAMP OR AMPPS)
+2.Create a database named : "orphanages"
+3.Import the orphanages.sql File into the database that you have just creeated in the above step
+4.copy the unzipped folder to your directory( www for WAMP and MAMP while htdocs for XAMPP)
+5.Go to your browser( Mozilla Firefox, Chrome, Edge, Safari, Torch, Opera etc.)
+6.go to the url address that you have uploaded your folder to eg : http://locahlost/foldername/
+7. Remember to keep the Sabbath Day Holy;
+*************************************************************************************************
+Developer of the mini system: 	Ncube Ntokozo
+Cell:							+263712948663 OR +263774002534
+Developer Email:				ncuben@solusi.ac.zw
